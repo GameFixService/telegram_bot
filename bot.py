@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ConversationHandler, ContextTypes
 
-TOKEN = "ТУТ_ВСТАВ_ТОКЕН_БОТА"
+TOKEN = "7485921757:AAH1fKVT4V0Qg11Gi1FR5J0iz7h5PXZtL_g"
 CHAT_ID = -1002555460055
 
 # Стан діалогу
